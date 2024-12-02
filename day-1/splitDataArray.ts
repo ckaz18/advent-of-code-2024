@@ -1,5 +1,5 @@
 
-export function splitDataArray(data: string[]): [number[], number[]] {
+export function splitDataArray(data: string[]): number[][] {
   const newDataList1: number[] = [];
   const newDataList2: number[] = [];
   
